@@ -27,23 +27,14 @@
           </a>
         </li>
 
-        {% for social in site.social %}
-          {% if social.url != null %}
-          <li>
-            <a href="{{ social.url }}" title="{{ social.desc }}">
-              <i class="fa fa-{{ social.icon }}"></i>
-              <span class="username">{% if social.username %}{{ social.username }}{% else %}{{ social.name }}{% endif %}</span>
-            </a>
-          </li>
-          {% endif %}
-        {% endfor %}
-
       </ul>
     </div>
 
-    <div class="site-signature">
-      <p class="rss-subscribe text"><strong>Subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></strong></p>
-      <p class="text">{{ site.description }}</p>
+    <div class="site-contact">
+      <p class="rss-subscribe text"><strong>Wechat</strong></p>
+       <ul>
+          <img src="{{ site.baseurl }}/assets/logo.png" height="70" width="70">
+      </ul>
     </div>
 
   </div>
