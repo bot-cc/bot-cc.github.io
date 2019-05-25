@@ -10,9 +10,9 @@ exclude:
 
 # Site settings
 title: Bot-CC
-subtitle: "欢迎来到Bot-CC量化交易机器人平台"
-email: jounywang2014@gmail.com
-name: CC-Bot
+subtitle: "欢迎来到 Bot-CC 量化交易机器人平台"
+email: bot-cc@outlook.com
+name: Bot-CC
 description: >
 #  A simple yet classy theme for your Jekyll website or blog.
 # Base URL of site (i.e. /blog). It should always start with a slash,

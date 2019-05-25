@@ -1,0 +1,59 @@
+---
+layout: post
+title:  "数字货币自动化交易程序手册"
+date:   2015-04-18 08:43:59
+author: Ben Centra
+categories: Jekyll
+tags:	jekyll welcome
+cover:  "/assets/instacode.png"
+---
+
+### 前期准备
+
+
+
+#### 第一步：获取API
+
+以币安为例：
+
+网页版登陆后，点击右上角【用户中心】，点击【API管理】，随便输一个备注名，点击【创建新KEY】，勾上【读取信息】【开放交易】两个权限，不要选【开放提现】，不需要限制IP，然后保存。
+
+#### 第二步：明确需求
+
+想好自己要使用自动化交易的交易对，例如BNBUSDT，然后在BNB或USDT账户内存入相应的资产。
+
+#### 第三步：提供资料
+
+需要你把API key和secret发给我，然后和我沟通你想使用自动化交易的交易对。
+
+
+
+### 开始交易
+
+程序会自己判断使用USDT购买BNB和出售BNB换取USDT的时机与价格，可以通过交易历史看到订单情况。
+
+
+
+### 注意事项：
+
+
+
+1：不建议干涉程序的执行。
+
+2：本程序只关注币的数量，价格变化为市场行为，与程序无关。
+
+3：受市场行情变化，及程序的学习记录变化影响，可能会有高买低卖的交易行为，一般差价都很小，属于正常。
+
+4：程序依靠概率取胜。每天、每周因为不同的行情、币种、交易额都会有千差万别的结果，所以每天收益情况都会不同。
+
+5：每天交易次数不定，可能一天都没有交易，也可能一天交易几十上百笔。如果长时间没有交易行为可及时微信联系。
+
+6：程序为辅助工具，不能确保收益情况。如果有人说他的程序每天一定多少点的收益，那他绝对是个骗子。
+
+[jekyll]:      http://jekyllrb.com
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-help]: https://github.com/jekyll/jekyll-help
+[highlight]:   https://highlightjs.org/
+[lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
+[jekyll-archive]: https://github.com/jekyll/jekyll-archives
+[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
