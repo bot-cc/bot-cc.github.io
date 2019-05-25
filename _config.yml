@@ -22,7 +22,7 @@ baseurl: "/bot-cc.github.io" # the subpath of your site, e.g. /blog/
 url: "http://bot-cc.github.io" # the base hostname & protocol for your site
 cover: "/assets/img/bitcoin.jpg"
 #cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+logo: "/assets/img/logo.jpg"
 
 # Build settings
 markdown: kramdown
