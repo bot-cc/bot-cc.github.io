@@ -4,7 +4,7 @@ title: 关于
 permalink: /about/
 ---
 
-<img src="{{ site.baseurl }}/assets/logo.png" title="Profile Picture" class="profile">
+<img src="{{ site.baseurl }}/assets/img/logo.jpg" title="Profile Picture" class="profile">
 
 
 [centrarium]: https://github.com/bencentra/centrarium

@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: Bot-CC
 subtitle: "欢迎来到 Bot-CC 量化交易机器人平台"
-email: bot-cc@outlook.com
+email: jounywang2014@gmail.com
 name: Bot-CC
 description: >
 #  A simple yet classy theme for your Jekyll website or blog.
@@ -20,7 +20,7 @@ description: >
 # root of your server.
 baseurl: "/bot-cc.github.io" # the subpath of your site, e.g. /blog/
 url: "http://bot-cc.github.io" # the base hostname & protocol for your site
-cover: "/assets/instacode.png"
+cover: "/assets/img/bitcoin.jpg"
 #cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
