@@ -49,11 +49,3 @@ cover:  "/assets/img/code.jpg"
 5：每天交易次数不定，可能一天都没有交易，也可能一天交易几十上百笔。如果长时间没有交易行为可及时微信联系。
 
 6：程序为辅助工具，不能确保收益情况。如果有人说他的程序每天一定多少点的收益，那他绝对是个骗子。
-
-[jekyll]:      http://jekyllrb.com
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-help]: https://github.com/jekyll/jekyll-help
-[highlight]:   https://highlightjs.org/
-[lightbox]:    http://lokeshdhakar.com/projects/lightbox2/
-[jekyll-archive]: https://github.com/jekyll/jekyll-archives
-[liquid]: https://github.com/Shopify/liquid/wiki/Liquid-for-Designers
