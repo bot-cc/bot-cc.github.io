@@ -5,3 +5,4 @@ permalink: /about/
 ---
 
 <img src="{{ site.baseurl }}/assets/img/logo.jpg" title="Profile Picture" class="profile">
+
