@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "关于交易策略升级、回测报告及一些情况的说明"
+title:  "关于交易策略升级、回测情况的说明"
 date:   2018-01-26 18:43:59
 author: Lin
 categories: Blackboard
