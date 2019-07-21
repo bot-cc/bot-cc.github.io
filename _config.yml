@@ -1,5 +1,5 @@
 # External gems
-# See http://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
+# See https://ixti.net/software/2013/01/28/using-jekyll-plugins-on-github-pages.html for making `jekyll archives` work.
 gems:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://bot-cc.github.io" # the base hostname & protocol for your site
+url: "https://bot-cc.ml" # the base hostname & protocol for your site
 #cover: "/assets/img/bitcoin.jpg"
 cover: "https://i.loli.net/2019/07/21/5d34868c6398724891.jpg"
 logo: "https://i.loli.net/2019/07/21/5d3488379a8f759229.jpg"
