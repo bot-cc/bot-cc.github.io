@@ -16,27 +16,27 @@ cover:  "https://i.loli.net/2019/07/21/5d34883782da910104.jpg"
 
 关于回测情况，以ETC对BTC从2018年1月1号到今天2018年1月26号进行回测
 
-![1](https://raw.githubusercontent.com/bot-cc/bot-cc.github.io/master/assets/img/1.jpg)
+![1](https://i.loli.net/2019/07/22/5d348db24121a67582.png)
 
 下面是浮动盈亏 变化情况，可以看到收益并不是直线增长的，每次交易并不是都赚的。
 
-![2](https://raw.githubusercontent.com/bot-cc/ bot-cc.github.io/master/assets/img/2.jpg)
+![2](https://i.loli.net/2019/07/22/5d348d74b3b6382541.png)
 
 下面是本次回测结果，预估收益为36%。减去1月1号到今天持币不动的收益，剩下的就是程序创造的收益
 
-![3](https://raw.githubusercontent.com/bot-cc/ bot-cc.github.io/master/assets/img/3.jpg)
+![3](https://i.loli.net/2019/07/22/5d348d74a8e3738823.png)
 
 是不是只有对ETC效果如此呢？我们再来看ETH，回测区间12月1号到今天1月26号
 
-![4](https://raw.githubusercontent.com/bot-cc/ bot-cc.github.io/master/assets/img/4.jpg)
+![4](https://i.loli.net/2019/07/22/5d348d74890ff22022.png)
 
 回测结果。这两个月预估收益111%
 
-![5](https://raw.githubusercontent.com/bot-cc/ ot-cc.github.io/master/assets/img/5.jpg)
+![5](https://i.loli.net/2019/07/22/5d348d7478f1c12234.png)
 
 浮动盈亏变化情况。可以看到前半个月均是亏损状态。
 
-![6](https://raw.githubusercontent.com/bot-cc/ bot-cc.github.io/master/assets/img/6.jpg)
+![6](https://i.loli.net/2019/07/22/5d348d749f7e145219.png)
 
 ### 浮动盈亏
 
