@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "一波实盘晒单操作"
+date:   2018-01-27 08:43:59
+author: Lin
+categories: Blackboard
+tags:
+cover:  "/assets/img/code.jpg"
+---
+
+来自我们其中一位客户，可以看到程序的微操
+
+[![491B5A99-E592-4A00-A548-CF21B0173D22.jpeg](https://i.loli.net/2019/07/21/5d33fbf1237e968229.jpeg)](https://i.loli.net/2019/07/21/5d33fbf1237e968229.jpeg)
