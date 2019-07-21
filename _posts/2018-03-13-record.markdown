@@ -5,7 +5,7 @@ date:   2018-03-13 08:43:59
 author: Lin
 categories: Blackboard
 tags:
-cover:  "/assets/img/code.jpg"
+cover:  "https://i.loli.net/2019/07/21/5d34883782da910104.jpg"
 ---
 
 大家可以在微信里就能接收到程序每次交易的数据，包括买价、卖价，以及每次操作所产生的盈利情况。

@@ -22,7 +22,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bot-cc.github.io" # the base hostname & protocol for your site
 #cover: "/assets/img/bitcoin.jpg"
 cover: "https://i.loli.net/2019/07/21/5d34868c6398724891.jpg"
-logo: "/assets/img/logo.jpg"
+logo: "https://i.loli.net/2019/07/21/5d3488379a8f759229.jpg"
 
 # Build settings
 markdown: kramdown
@@ -90,12 +90,12 @@ social:
 # These are for automatically generating sharing metadata for FB and Twitter
 # OS Protocol is for sharing the source of your site, if you're interested. For more, see osprotocol.com
 protocols:
-    fb_image: "/assets/logo.png"
+    fb_image: "https://i.loli.net/2019/07/21/5d3488379a8f759229.jpg"
     fb_image_width: 612
     fb_image_height: 605
-    fb_image_type: "image/png"
+    fb_image_type: "image/jpg"
 
-    twitter_image: "/assets/logo.png"
+    twitter_image: "https://i.loli.net/2019/07/21/5d3488379a8f759229.jpg"
 
     os_repo: "https://github.com/bot-cc/bot-cc.github.io"
     os_rcs_type: "git"
