@@ -20,8 +20,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bot-cc.github.io" # the base hostname & protocol for your site
-cover: "/assets/img/bitcoin.jpg"
-#cover: "/assets/header_image.jpg"
+#cover: "/assets/img/bitcoin.jpg"
+cover: "https://i.loli.net/2019/07/21/5d34868c6398724891.jpg"
 logo: "/assets/img/logo.jpg"
 
 # Build settings
