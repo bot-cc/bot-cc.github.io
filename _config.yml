@@ -22,7 +22,8 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://bot-cc.ml" # the base hostname & protocol for your site
 #cover: "/assets/img/bitcoin.jpg"
 shimocover: "https://images-cdn.shimo.im/iSBUJaOHPIQxK36W/bitcoin.jpg"
-cover: "https://i.loli.net/2019/07/21/5d34868c6398724891.jpg"
+cover: "https://tva1.sinaimg.cn/large/0060lm7Tly1g5947h98bxj31c00u07cf.jpg"
+bakcover: "https://i.loli.net/2019/07/21/5d34868c6398724891.jpg"
 logo: "/assets/img/logo.jpg"
 baklogo: "https://i.loli.net/2019/07/21/5d3488379a8f759229.jpg"
 wechat: "/assets/img/wechat.jpg"
