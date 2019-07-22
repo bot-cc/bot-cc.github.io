@@ -5,7 +5,7 @@ date:   2018-01-26 18:43:59
 author: Lin
 categories: Blackboard
 tags:
-cover:  "https://i.loli.net/2019/07/21/5d34883782da910104.jpg"
+cover:  "https://images-cdn.shimo.im/3IFneV9O0B0Z62WR/code.jpg"
 ---
 
 ### 升级

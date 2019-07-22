@@ -5,7 +5,7 @@ date:   2018-01-27 08:43:59
 author: Lin
 categories: Blackboard
 tags:
-cover:  "https://i.loli.net/2019/07/21/5d34883782da910104.jpg"
+cover:  "https://images-cdn.shimo.im/3IFneV9O0B0Z62WR/code.jpg"
 ---
 
 来自我们其中一位客户，可以看到程序的微操
