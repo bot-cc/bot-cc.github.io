@@ -19,7 +19,7 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://bot-cc.ml" # the base hostname & protocol for your site
+url: "https://www.bot-cc.ml" # the base hostname & protocol for your site
 #cover: "/assets/img/bitcoin.jpg"
 shimocover: "https://images-cdn.shimo.im/iSBUJaOHPIQxK36W/bitcoin.jpg"
 cover: "https://tva1.sinaimg.cn/large/0060lm7Tly1g5947h98bxj31c00u07cf.jpg"
