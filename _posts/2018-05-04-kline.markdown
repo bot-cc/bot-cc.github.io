@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "微信查询实时K线功能"
+date:   2018-05-04 08:43:59
+author: Lin
+categories: Blackboard
+tags:
+cover:  "https://tva1.sinaimg.cn/large/0060lm7Tly1g5a7l85hrjj315o0rsdi0.jpg"
+---
+
+各位可以在微信发送交易对名称，就会自动返回当前市场行情的 K 线走势图。
+
+英文国际版已在 Telegram 同步更新。
+
+![2](https://tva1.sinaimg.cn/large/0060lm7Tly1g5a7g41mc2j30u012yq9t.jpg)
+
