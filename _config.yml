@@ -5,7 +5,6 @@ plugins:
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
-  - faraday-retry
 
 exclude:
   - "/vendor/"
