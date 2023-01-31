@@ -5,7 +5,7 @@ date:   2018-01-18 08:43:59
 author: Lin
 categories: Blackboard
 tags:
-cover:  "https://github.com/bot-cc/bot-cc.github.io/blob/master/assets/img/code.jpg?raw=true"
+cover:  "https://raw.githubusercontent.com/bot-cc/bot-cc.github.io/master/assets/img/code.jpg"
 ---
 
 ### 前期准备
