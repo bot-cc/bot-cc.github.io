@@ -5,7 +5,7 @@ date:   2018-01-18 08:43:59
 author: Lin
 categories: Blackboard
 tags:
-cover:  "https://tva1.sinaimg.cn/large/0060lm7Tly1g5a7l85hrjj315o0rsdi0.jpg"
+cover:  "https://github.com/bot-cc/bot-cc.github.io/blob/master/assets/img/code.jpg?raw=true"
 ---
 
 ### 前期准备
@@ -48,4 +48,4 @@ cover:  "https://tva1.sinaimg.cn/large/0060lm7Tly1g5a7l85hrjj315o0rsdi0.jpg"
 
 5：每天交易次数不定，可能一天都没有交易，也可能一天交易几十上百笔。如果长时间没有交易行为可及时微信联系。
 
-6：程序为辅助工具，不能确保收益情况。如果有人说他的程序每天一定多少点的收益，那他绝对是个骗子。
+6：程序为辅助工具，不能确保收益情况。
